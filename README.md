@@ -5,3 +5,5 @@
   - Built a CRUD api using Go with mux!
   - Built a CRUD api with mysql and gorm
   - updated gorm package dependencies
+- Day3:
+  - Built a slack bot for calculating age
