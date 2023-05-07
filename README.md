@@ -13,4 +13,4 @@
 1. `go mod init <path>`
 2. `go build [file_name]`
 3. `go run [file_name]`
-4. `got get [-c] [package_name]`
+4. `go get [-c] [package_name]`
