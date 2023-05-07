@@ -7,3 +7,10 @@
   - updated gorm package dependencies
 - Day3:
   - Built a slack bot for calculating age
+
+## Some imp Commands
+
+1. `go mod init <path>`
+2. `go build [file_name]`
+3. `go run [file_name]`
+4. `got get [-c] [package_name]`
