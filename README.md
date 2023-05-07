@@ -4,3 +4,4 @@
 - Day2:
   - Built a CRUD api using Go with mux!
   - Built a CRUD api with mysql and gorm
+  - updated gorm package dependencies
