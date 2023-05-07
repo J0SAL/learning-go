@@ -7,6 +7,7 @@
   - updated gorm package dependencies
 - Day3:
   - Built a slack bot for calculating age
+  - Built a slack bot for upload file
 
 ## Some imp Commands
 
