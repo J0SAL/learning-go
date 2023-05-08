@@ -8,6 +8,8 @@
 - Day3:
   - Built a slack bot for calculating age
   - Built a slack bot for upload file
+- Day4:
+  - Built a email domain checker
 
 ## Some imp Commands
 
