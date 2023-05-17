@@ -19,3 +19,4 @@
 2. `go build [file_name]`
 3. `go run [file_name]`
 4. `go get [-c] [package_name]`
+5. `go run --race .`
