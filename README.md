@@ -12,6 +12,8 @@
   - Built a email domain checker
 - Day5
   - Understanding GoRoutines
+- Day6
+  - Understanding GoChannels
 
 ## Some imp Commands
 
